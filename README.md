@@ -1,6 +1,6 @@
 # jsinterpret
 
-##Usage
+## Usage
 
 ```console
 ./jsinterpret.js file
